@@ -2,6 +2,7 @@ import React from 'react'
 import ProjectsText from './projectsText'
 import SingleProject from './SingleProject'
 
+
 const projects=[
   {
     name:'EasyLearnWithExpert',
@@ -14,8 +15,8 @@ const projects=[
     name:'ShopEase',
     year:'Feb2024',
     align:'left',
-    image:'/images/website-img-3.jpg',
-    link:'#',
+    image:'/images/website-img-2.webp',
+    link:'https://github.com/Navya-Kolipaka/ShopEase/tree/main/E-Commerce',
   },
 ]
 const Projectsmain = () => {
