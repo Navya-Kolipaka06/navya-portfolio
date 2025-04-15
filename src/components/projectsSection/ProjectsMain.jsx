@@ -8,14 +8,14 @@ const projects=[
     name:'EasyLearnWithExpert',
     year:'June2023',
     align:'right',
-    image:'./images/website-img-1.jpg',
+    image:'./images/website-img-3.jpg',
     link:'#',
   },
   {
     name:'ShopEase',
     year:'Feb2024',
     align:'left',
-    image:'./images/website-img-2.webp',
+    image:'./images/website-img-4.jpg',
     link:'https://github.com/Navya-Kolipaka/ShopEase/tree/main/E-Commerce',
   },
 ]
